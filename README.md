@@ -40,3 +40,14 @@ minimal debian testing Bullseye install
     
    
   
+table test:
+---
+
+
+||||
+|---|---|---:|
+| 1   | 2   | 3     |
+| 11  | 22  | 33    |
+
+
+The end

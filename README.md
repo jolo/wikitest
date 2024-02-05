@@ -3,7 +3,7 @@ wikitest
 
 # my todo list
 
-  - [ ] first
+  - [ ] first 454354353
   - [ ] second
   - [ ] third with a longer paragraph 
         which continues
